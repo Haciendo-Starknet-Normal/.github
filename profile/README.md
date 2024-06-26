@@ -7,8 +7,8 @@ Unidad de Experimentación de Starknet Latino. Regla: no mencionar blockchain.
 ![Abuelita](../resources/img/abuelita.png)
 
 <div align="left">
-    <img src="../resources/img/abuelita.png" >
-<div align="left">
+    <img src="../resources/img/abuelita.png" width="50%">
+</div>
 
 ## Principios:
 

@@ -4,10 +4,8 @@ Unidad de Experimentación de Starknet Latino. Regla: no mencionar blockchain.
 
 **Objetivo**: Crear apps útiles en Starknet para Latinoamérica, atrayendo nuevos usuarios ajenos a las criptomonedas.
 
-![Abuelita](../resources/img/abuelita.png)
-
 <div align="left">
-    <img src="../resources/img/abuelita.png" width="50%">
+    <img src="../resources/img/abuelita.png" width="70%">
 </div>
 
 ## Principios:

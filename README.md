@@ -1,12 +1,10 @@
 # Haciendo Starknet Normal
 
-## Español
-
 Unidad de Experimentación de Starknet Latino. Regla: no mencionar blockchain.
 
 **Objetivo**: Crear apps útiles en Starknet para Latinoamérica, atrayendo nuevos usuarios ajenos a las criptomonedas.
 
-### Principios:
+## Principios:
 
 **Utilidad y Experiencia:**
 - Resolver problemas reales con valor tangible
@@ -26,35 +24,7 @@ Unidad de Experimentación de Starknet Latino. Regla: no mencionar blockchain.
 - Apps que no parezcan de cripto o mencionen criptomendas
 - Priorizar experiencia y utilidad, minimizar complejidad técnica
 
-
-## Português
-
-Unidade de Experimentação da Starknet Latino. Regra: não mencionar blockchain.
-
-**Objetivo**: Criar apps úteis no Starknet para a América Latina, atraindo novos usuários alheios às criptomoedas.
-
-### Princípios:
-
-**Utilidade e Experiência:**
-- Resolver problemas reais com valor tangível
-- Adaptar casos de uso às necessidades regionais
-- Interfaces intuitivas para novos usuários
-
-**Capacidades do Starknet:**
-- Aproveitar abstração de contas, paymaster e transações eficientes
-- Apps seguras, escaláveis e eficientes
-- Integrar IA e Machine Learning
-
-**Autocustódia e Empoderamento:**
-- Educar sobre proteção de dados e ativos
-- Apps resistentes à censura, que garantam liberdade de expressão
-
-**Abordagem Não Criptocêntrica:**
-- Apps que não pareçam de cripto
-- Priorizar experiência e utilidade, minimizar complexidade técnica
-
-
-## Projects
+## Projectos
 
 | Projecto                                              | Descripción                                                                                                                                                                                        | Repositorio                                                |
 |------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
